@@ -40,9 +40,11 @@
 
 ### Recent Projects
 <p align="left">
-  <a href="https://github.com/jimididit/badusb-beetle">
+  <a href="https://github.com/T3rmx/Exploit-insulin-pump">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=badusb-beetle&theme=nightowl" alt="badusb-beetle" />
   </a>
+  <a href="https://github.com/T3rmx/SCPN-SCANNER">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=badusb-beetle&theme=nightowl" alt="badusb-beetle" />
   ---
 
 
