@@ -43,28 +43,7 @@
   <a href="https://github.com/jimididit/badusb-beetle">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=badusb-beetle&theme=nightowl" alt="badusb-beetle" />
   </a>
-  <a href="https://github.com/jimididit/tiktok-autoblocker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=tiktok-autoblocker&theme=nightowl" alt="tiktok-autoblocker" />
-  </a>
-  <a href="https://github.com/jimididit/useful-linux-commands">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=useful-linux-commands&theme=nightowl" alt="useful-linux-commands" />
-  </a>
-  <a href="https://github.com/jimididit/wifi-hackmode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=wifi-hackmode&theme=nightowl" alt="wifi-hackmode" />
-  </a>
-   <a href="https://github.com/jimididit/remote-keylogger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=remote-keylogger&theme=nightowl" alt="remote-keylogger" />
-  </a>
-  <a href="https://github.com/jimididit/simple-pass-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=simple-pass-manager&theme=nightowl" alt="simple-pass-manager" />
-  </a>
-  <a href="https://github.com/jimididit/wifi_pwn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=wifi_pwn&theme=nightowl" alt="wifi_pwn" />
-  </a>
-  <a href="https://github.com/jimididit/arch-vmwaretools-install">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jimididit&repo=arch-vmwaretools-install&theme=nightowl" alt="arch-vmwaretools-install" />
-  </a>
-</p>
+  ---
 
 
 #### Platforms, Tools & Operating Systems
