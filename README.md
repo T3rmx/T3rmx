@@ -36,10 +36,10 @@
 
 #### TryHackMe
 ![Try hack me](https://tryhackme-badges.s3.amazonaws.com/T3rmx.png?update=4)
-
+<!--
 #### HackTheBox
 ![Try hack me](https://tryhackme-badges.s3.amazonaws.com/T3rmx.png?update=4)
-
+-->
 ---
 
 ### Recent Projects
