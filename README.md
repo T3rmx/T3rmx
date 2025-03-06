@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/GitHub-@T3rmx-F1007E?style=flat-square&logo=github&logoColor=white" alt="GitHub - T3rmx" />
   </a>
   
-  /p>
   
 ---
 
