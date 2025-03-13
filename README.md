@@ -24,7 +24,6 @@
 
 ### About T3rmx 
 - 🌟 **Interests:** Educational/Informative Content Creation, PenTesting , Bot Development, Scripting, Automation, 
-- 💻 **Favorite Technologies:** Python, C++, Java
 - 🌱 **Currently Working On:** Building Personal Brand, Contributing More On GitHub
 - 🤝 **Looking to Collaborate:** Open-source, Startup Projects
 - 🖥️ **Operating Systems:** Kali Linux , Debian and Windows
