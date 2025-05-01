@@ -1,8 +1,3 @@
-<!-- Your banner image -->
-<p align="center">
-  <img src="https://github.com/T3rmx/T3rmx/blob/main/file-TNEykvtnXaZW6TpU7nJE4x.jpg" alt="Header image" width="500" height="500">
-</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E3E3E3&left=true&vCenter=true&width=600&lines=You+Found+T3rmx!+;Programming+Geek,+Hacking+Enthusiast,+Content+Creator+;Nokturnal+Community+Founder)](https://git.io/typing-svg)
 <p align="left">
   <a href="https://github.com/T3rmx/T3rmx"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -47,13 +42,18 @@
 
 ### Recent Projects
 <p align="left">
+
+  <a href="https://github.com/T3rmx/File-Pilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T3rmx&repo=File-Pilot&theme=nightowl" alt="File-Pilot"/>
+  </a>
+  
   <a href="https://github.com/T3rmx/Exploit-insulin-pump">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=T3rmx&repo=Exploit-insulin-pump&theme=nightowl" alt="Exploit-insulin-pump" />
     
   </a>
   <a href="https://github.com/T3rmx/SCPN-SCANNER">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=T3rmx&repo=SCPN-SCANNER&theme=nightowl" alt="SCPN-SCANNER" />
-    
+        
   ---
 
 
