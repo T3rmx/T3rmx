@@ -33,7 +33,10 @@
 ### CTF Platforms
 
 #### TryHackMe
-![Try hack me]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4079533" style='border:none;'></iframe>
+<a href="https://tryhackme.com/p/T3rmx" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/T3rmx.png" alt="Your Image Badge" />
+</a>
+
 <!--
 #### HackTheBox
 ![Try hack me](https://tryhackme-badges.s3.amazonaws.com/T3rmx.png?update=4)
