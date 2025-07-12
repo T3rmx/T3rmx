@@ -33,7 +33,7 @@
 ### CTF Platforms
 
 #### TryHackMe
-![Try hack me](https://tryhackme-badges.s3.amazonaws.com/T3rmx.png?update=4)
+![Try hack me]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4079533" style='border:none;'></iframe>
 <!--
 #### HackTheBox
 ![Try hack me](https://tryhackme-badges.s3.amazonaws.com/T3rmx.png?update=4)
